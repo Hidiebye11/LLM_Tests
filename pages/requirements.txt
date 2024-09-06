@@ -1,7 +1,3 @@
-phidata 
-streamlit
-groq
-yfinance
 streamlit 
 json
 base64
