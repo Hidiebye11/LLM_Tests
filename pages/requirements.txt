@@ -2,3 +2,11 @@ phidata
 streamlit
 groq
 yfinance
+streamlit 
+json
+base64
+requests
+fitz  
+tempfile
+partial
+Pool
